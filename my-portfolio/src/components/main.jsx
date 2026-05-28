@@ -35,7 +35,7 @@ function Main({ engineeringSkills, productSkills }) {
                     Digital Marketing and Web Operations Assistant
                   </h3>
                   <p className="text-xs font-mono text-slate-500 dark:text-white/40 mt-1 uppercase tracking-widest">
-                    H&H Medical Supply | Whittier, CA
+                    H&H MEDICAL SUPPLY | WHITTIER, CA
                   </p>
                 </div>
                 <span className="text-xs font-mono mt-4 md:mt-0 bg-slate-100 dark:bg-[#222222] text-cyan-700 dark:text-[#00F5FF] px-3 py-1 self-start">
@@ -65,7 +65,7 @@ function Main({ engineeringSkills, productSkills }) {
                     Software Engineer Intern
                   </h3>
                   <p className="text-xs font-mono text-slate-500 dark:text-white/40 mt-1 uppercase tracking-widest">
-                    FULLSUITE
+                    FULLSUITE | BAGUIO CITY, PH
                   </p>
                 </div>
                 <span className="text-xs font-mono mt-4 md:mt-0 bg-slate-100 dark:bg-[#222222] text-cyan-700 dark:text-[#00F5FF] px-3 py-1 self-start">
