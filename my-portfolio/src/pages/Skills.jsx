@@ -11,12 +11,13 @@ export default function Skills() {
         "TypeScript",
         "Tailwind CSS",
         "Flutter",
+        "Elementor"
       ],
     },
     {
       title: "Backend & Systems",
       description: "Architecting scalable APIs, databases, and microservices.",
-      skills: ["Node.js", "Python", "Firebase", "MongoDB", "MySQL"],
+      skills: ["Node.js", "Python", "Laravel", "Firebase", "MongoDB", "MySQL", "Supabase",],
     },
     {
       title: "Cloud & Infrastructure",
@@ -26,6 +27,8 @@ export default function Skills() {
         "Docker",
         "Vercel",
         "Render",
+        "Hostinger",
+        "WordPress"
       ],
     },
     {

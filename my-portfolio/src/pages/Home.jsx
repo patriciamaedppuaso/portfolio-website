@@ -10,6 +10,7 @@ export default function Home() {
     "MySQL",
     "MongoDB",
     "Firebase",
+    "Supabase",
   ];
   const productSkills = ["UI/UX Design (Figma)", "Wireframing", "Prototyping"];
 
