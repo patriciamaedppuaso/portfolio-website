@@ -32,7 +32,37 @@ function Main({ engineeringSkills, productSkills }) {
               <div className="flex flex-col md:flex-row justify-between mb-4 md:items-start">
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold tracking-tight text-slate-900 dark:text-white">
-                    Software Engineer Associate
+                    Digital Marketing and Web Operations Assistant
+                  </h3>
+                  <p className="text-xs font-mono text-slate-500 dark:text-white/40 mt-1 uppercase tracking-widest">
+                    H&H Medical Supply | Whittier, CA
+                  </p>
+                </div>
+                <span className="text-xs font-mono mt-4 md:mt-0 bg-slate-100 dark:bg-[#222222] text-cyan-700 dark:text-[#00F5FF] px-3 py-1 self-start">
+                  May 2026 — Present
+                </span>
+              </div>
+
+              <p className="text-slate-600 dark:text-white/70 mb-6 font-light leading-relaxed">
+                Drive cross-functional growth by combining full-stack web operations with data-driven digital marketing strategy. Maintain legacy websites using WordPress, Elementor, and Hostinger, while architecting modern, custom enterprise applications using Next.js, React.js, TypeScript, and Supabase. Concurrently conduct targeted market research and produce high-impact digital assets to refine brand positioning and support strategic marketing campaigns.              </p>
+
+              <div className="flex flex-wrap gap-3">
+                {["NEXT.JS", "REACT.JS", "TYPESCRIPT", "SUPABASE", "WORDPRESS", "MARKET RESEARCH"].map((t) => (
+                  <span
+                    key={t}
+                    className="bg-slate-100 dark:bg-[#262626] text-pink-600 dark:text-[#e278b5] px-3 py-1 text-[11px] font-mono tracking-wider"
+                  >
+                    {t}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            <div className="p-6 md:p-8 bg-white dark:bg-[#1a1a1a] shadow-sm dark:shadow-none border border-slate-100 dark:border-transparent border-l-2 border-l-cyan-600 dark:border-l-[#00F5FF] transition-colors duration-300">
+              <div className="flex flex-col md:flex-row justify-between mb-4 md:items-start">
+                <div>
+                  <h3 className="text-xl md:text-2xl font-bold tracking-tight text-slate-900 dark:text-white">
+                    Software Engineer Intern
                   </h3>
                   <p className="text-xs font-mono text-slate-500 dark:text-white/40 mt-1 uppercase tracking-widest">
                     FULLSUITE
