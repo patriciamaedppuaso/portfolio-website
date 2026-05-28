@@ -6,6 +6,7 @@ export default function Home() {
     "TypeScript",
     "Python",
     "React",
+    "Laravel",
     "Flutter",
     "MySQL",
     "MongoDB",
