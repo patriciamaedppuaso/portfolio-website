@@ -68,7 +68,7 @@ function Main({ engineeringSkills, productSkills }) {
                     FULLSUITE | BAGUIO CITY, PH
                   </p>
                 </div>
-                <span className="text-xs font-mono mt-4 md:mt-0 bg-slate-100 dark:bg-[#222222] text-cyan-700 dark:text-[#00F5FF] px-3 py-1 self-start">
+                <span className="text-xs font-mono mt-4 md:mt-0 text-slate-500 dark:text-white/40 px-3 py-1 self-start">
                   Feb — Apr 2026
                 </span>
               </div>
