@@ -32,7 +32,7 @@ function Main({ engineeringSkills, productSkills }) {
               <div className="flex flex-col md:flex-row justify-between mb-4 md:items-start">
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold tracking-tight text-slate-900 dark:text-white">
-                    Digital Marketing and Web Operations Assistant
+                    Digital Marketing and Web Operations
                   </h3>
                   <p className="text-xs font-mono text-slate-500 dark:text-white/40 mt-1 uppercase tracking-widest">
                     H&H MEDICAL SUPPLY | WHITTIER, CA
